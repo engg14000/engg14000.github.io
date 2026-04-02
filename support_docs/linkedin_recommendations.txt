@@ -1,0 +1,174 @@
+
+Ranajit Mitra
+
+· 1st
+
+Lead Data Scientist – AI CoE | Advanced Statistics | Enterprise AI | GenAI,Agentic AI | Deep Learning, Applied Data Science & Cloud AI Infrastructure | Architecting Scalable AI Solutions
+
+March 23, 2026, Ranajit worked with Mohamed on the same team
+
+
+
+I highly recommend Mohamed Aarif as a talented data engineer with growing expertise in AI and agentic systems. He has a strong foundation in building scalable data pipelines and is equally skilled at applying modern AI techniques to solve real-world problems.
+
+His ability to bridge data engineering with intelligent, agent-based solutions makes him stand out. On top of that, he is proactive, collaborative, and always eager to learn and innovate.
+
+
+Shamidh Ahamed 
+
+· 1st
+
+Senior Consultant at Capgemini Technology Services
+
+May 1, 2025, Shamidh worked with Mohamed on the same team
+
+
+
+I've had the pleasure of working with Mohamed Aarif. He is someone who thrives to learn and grow. His knowledge over the technology is really remarkable. As a data engineer, Aarif brings strong technical foundation, but what really stands out is his curiosity and willingness to dive into complex problems. He doesn't shy away from complex tasks, he seeks them as an opportunity to sharpen his skills.
+
+I'm confident Aarif will be pushing his boundaries, growing as a data engineer and achieving greater heights. I would be really happy to work with him in future.
+
+
+Rajat Varshney 
+
+· 1st
+
+Security Solutions Architect | Vulnerability Management | Cybersecurity
+
+April 16, 2025, Rajat worked with Mohamed on the same team
+
+
+
+I had the pleasure of working with Mohammed Arif, who consistently demonstrated exceptional dedication and expertise. Mohammed extended support day and night, ensuring our projects stayed on track.
+
+One of Mohammed's remarkable achievements was building a robust Data Quality framework and integrating it into our existing project data ingestion framework. This proactive approach significantly improved our ability to identify and remediate data quality issues.
+
+Despite not having a cybersecurity background initially, Mohammed quickly ramped up his knowledge through an aggressive learning path. He applied this expertise effectively in designing the project's data ingestion framework and data models.
+
+Additionally, Mohammed built a sophisticated knowledge graph ingestion framework using Airflow, BigQuery, Spark, and Neo4J. This framework processes approximately 180 million new records daily from sources such as NDR (Extrahop), Infra (Qualys, CMDB), and APPSec (Invicti, Dradis, CMDB) BigQuery tables. His efforts in refining the data model were crucial for supporting the Attack Path Analysis POC.
+
+Mohammed is an invaluable asset to any team, and I highly recommend him for any challenging role.… more
+
+
+Anish Rajendran 
+
+· 1st
+
+Lead Data & AI Architect for Cyber Security portfolio of Solutions | Data Practice Lead for Consulting Portfolio
+
+April 16, 2025, Anish managed Mohamed directly
+
+
+
+Aarif is a very technical and dedicated team member to work with. He always comes back with excellent solutions. He takes the lead and do things proactively. Have got opportunity to learn multiple things from Aarif as well. Glad to work with him
+
+
+Francisco Villalpando Delgado
+
+· 1st
+
+Data Engineer
+
+April 15, 2025, Francisco worked with Mohamed on the same team
+
+
+
+In the time I worked with Mohammed he showed great professionalism and a customer centric mindset with the code and support he delivered, he was very responsive and always knew his way around the Google Cloud tooling
+
+
+Fazal Mir Mohamed 
+
+· 1st
+
+PMP Certified | SAFE Agilist | ERP Implementation Project/Program Manager | Product Manager | AI Project Manager  | Navigating ERP and AI project complexities | AI implementation heights with PMP foundations
+
+April 14, 2025, Fazal managed Mohamed directly
+
+
+
+I am thrilled to recommend Aarif as an exceptional Data Engineer. Having worked closely with him for an extended period, I can confidently say that he is one of the most talented and dedicated professionals I have encountered in the field of data engineering.
+From the moment Aarif joined our team, it was clear that he possessed a unique blend of technical expertise, analytical thinking, and a passion for data. His ability to design and implement robust data pipelines has significantly improved our data processing efficiency.
+Aarif is not only technically proficient but also possesses a strong problem-solving mindset. He approaches challenges with creativity and determination, often finding innovative solutions that benefit the entire team. His attention to detail and commitment to quality ensure that the data we work with is accurate and reliable.
+Moreover, Aarif is a fantastic team player. He communicates effectively and is always willing to share his knowledge with others, fostering a collaborative environment. His positive attitude and professionalism make him a pleasure to work with.
+I wholeheartedly recommend Aarif for any Data Engineering role. He will undoubtedly be a valuable asset to any organization.
+Beyond his technical prowess, Aarif is a person of integrity and professionalism. He approaches his work with a strong sense of responsibility and accountability, consistently delivering high-quality results. His ethical standards are unwavering, and he prioritizes the best interests of the team and the organization. Aarif' s positive attitude and resilience in the face of challenges make him a role model for others.
+In conclusion, I wholeheartedly recommend Aarif for any Data Engineering role. His exceptional technical skills, problem-solving abilities, collaborative spirit, and commitment to excellence make him a standout candidate. I have no doubt that he will continue to make significant contributions to any organization fortunate enough to have him on their team. Aarif is not just a data engineer; he is a true asset who will drive success and innovation in the field of data engineering.… more
+
+
+Shamit Bagchi 
+
+· 1st
+
+Strategy | AI/ML/Gen AI/Agentic AI | MBA - IIM Bangalore | MSc, Applied Physics, Chalmers Univ. Sweden
+
+April 3, 2021, Shamit managed Mohamed directly
+
+
+
+Mohammed is a dedicated, reliable and very capable engineer, I worked with him on productionizing ML models in Azure ML for a healthcare organization. After the initial guidance provided you can blindly rely on Mohammed to deliver. This level of dedication means Mohammed will progress and reach great heights. I recommend him to anyone for Azure cloud and ML engineering related work.
+
+
+Prashant Singhal 
+
+· 1st
+
+Senior Data Engineer at Deloitte USI | 8x Azure Certified Data Engineer | Azure Solution Architect | Azure Data Factory | Azure SQL | Databricks | Azure DevOps
+
+February 14, 2021, Prashant worked with Mohamed on the same team
+
+
+
+Aarif is working with me in Azure related projects. I have a great experience to working with him. He is a hardworking and dedicated to work.
+
+
+Digant Thakur 
+
+· 1st
+
+Senior Machine Learning Engineer at AB InBev
+
+November 16, 2020, Digant worked with Mohamed on the same team
+
+
+
+I and Aarif worked on creating a Data Science platform for our customer. 
+With his extensive knowledge on Azure, Azure Data Factory, and Databricks, Aarif was able to solve all the Data Engineering use cases effectively and rapidly. The solution was delivered within weeks. Would definitely recommend him.
+
+
+Mark Gammie 
+
+· 1st
+
+Project & Programme Manager
+
+November 11, 2020, Mark managed Mohamed directly
+
+
+
+I worked with Aarif on a challenging AI project which continuously pushed the boundaries of the technology, his platform knowledge and “can do” attitude at all times to both internal stakeholders and client colleagues was refreshing and was very much appreciated by all parties involved in the project….
+
+
+Graham MacLeod
+
+· 1st
+
+Senior Business Intelligence Consultant at NHS National Services Scotland
+
+November 11, 2020, Graham was Mohamed’s client
+
+
+
+Mohamed did some great work for us when we were setting up our data science function in our team. Would definitely work with him again.
+
+
+Brajesh Bharti 
+
+· 1st
+
+Oracle Retail Functional Consultant | PIM - MDM (Syndigo) | PMP | SAFe and Scrum Certified | QA & DevOps Specialist
+
+October 6, 2020, Brajesh worked with Mohamed but on different teams
+
+
+
+Aarif has always been a good team player. With all his efforts and learning, he has always achieved the best of best. Being a Colleague, would always recommend him for any position. 
